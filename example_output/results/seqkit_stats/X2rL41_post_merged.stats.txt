@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Q1	Q2	Q3	sum_gap	N50	Q20(%)	Q30(%)
+X2rL41_post.merged.fq.gz	FASTQ	DNA	2531289	591716235	46	233.8	279	235.0	235.0	235.0	0	235	97.77	96.44

@@ -1,0 +1,13 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+X2_lib_raw_1	X2_lib_raw_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	717164.0	0.0	150.0	28.0	1.0802271168101019	150.0	pass	warn	pass	fail	fail	pass	pass	fail	fail	pass
+X2_lib_raw_2	X2_lib_raw_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	717164.0	0.0	149.0	37.0	2.3216447005148058	149.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass
+X2_neg_raw_1	X2_neg_raw_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	255565.0	0.0	150.0	27.0	1.261127306164772	150.0	pass	warn	pass	fail	fail	pass	pass	fail	fail	pass
+X2_neg_raw_2	X2_neg_raw_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	255565.0	0.0	149.0	37.0	2.4252147203255534	149.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass
+X2rL41_post_raw_1	X2rL41_post_raw_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2752342.0	0.0	150.0	28.0	0.7406783023330676	150.0	pass	warn	pass	fail	fail	pass	pass	fail	fail	pass
+X2rL41_post_raw_2	X2rL41_post_raw_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2752342.0	0.0	149.0	36.0	2.1072962589678172	149.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass
+X2rL41_pre_raw_1	X2rL41_pre_raw_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2515255.0	0.0	150.0	28.0	0.8675064754865809	150.0	pass	warn	pass	fail	fail	pass	pass	fail	fail	pass
+X2rL41_pre_raw_2	X2rL41_pre_raw_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2515255.0	0.0	149.0	36.0	2.267086239764954	149.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass
+X2rL42_post_raw_1	X2rL42_post_raw_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2233277.0	0.0	150.0	28.0	0.8563201071788229	150.0	pass	warn	pass	fail	fail	pass	pass	fail	fail	pass
+X2rL42_post_raw_2	X2rL42_post_raw_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2233277.0	0.0	149.0	37.0	2.2068914872628875	149.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass
+X2rL42_pre_raw_1	X2rL42_pre_raw_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2635097.0	0.0	150.0	28.0	0.8489251059828158	150.0	pass	warn	pass	fail	fail	pass	pass	fail	fail	pass
+X2rL42_pre_raw_2	X2rL42_pre_raw_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2635097.0	0.0	149.0	36.0	2.3634044591147876	149.0	pass	pass	pass	fail	fail	pass	pass	fail	fail	pass

@@ -1,0 +1,2 @@
+ref_chr	ref_strand	ref_start	ref_end	r2_start	r2_end	ext_vector	action_vector	sgrna_vector
+chr17	-	43123941	43124175	43124017	43124096	"0,0"	"(snv),(snv),(snv)"	sgRNA_exon2

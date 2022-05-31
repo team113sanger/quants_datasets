@@ -1,0 +1,7 @@
+sample,single_end,fastq_1,fastq_2
+X2_lib,0,example_input/fastq/SRR7525820_1.fastq.gz,example_input/fastq/SRR7525820_2.fastq.gz
+X2_neg,0,example_input/fastq/SRR7525821_1.fastq.gz,example_input/fastq/SRR7525821_2.fastq.gz
+X2rL41_post,0,example_input/fastq/SRR7525822_1.fastq.gz,example_input/fastq/SRR7525822_2.fastq.gz
+X2rL41_pre,0,example_input/fastq/SRR7525823_1.fastq.gz,example_input/fastq/SRR7525823_2.fastq.gz
+X2rL42_post,0,example_input/fastq/SRR7525825_1.fastq.gz,example_input/fastq/SRR7525825_2.fastq.gz
+X2rL42_pre,0,example_input/fastq/SRR7525826_1.fastq.gz,example_input/fastq/SRR7525826_2.fastq.gz

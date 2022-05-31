@@ -1,0 +1,5 @@
+##fileformat=VCFv4.3
+##INFO=<ID=SGRNA,Number=1,Type=String,Description="sgRNA identifier">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr17	43124111	.	A	G	.	.	SGRNA=sgRNA_exon2
+chr17	43124022	.	G	C	.	.	SGRNA=sgRNA_exon2

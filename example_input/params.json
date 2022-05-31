@@ -1,0 +1,16 @@
+{
+  "max_cpus": 4,
+  "outdir": "example_output/results",
+  "single_end": false,
+  "input_type": "fastq",
+  "read_transform": null,
+  "raw_sequencing_qc": true,
+  "read_trimming": null,
+  "read_trimming_qc": false,
+  "read_merging": "seqprep",
+  "seqprep_options": "-A GGTTTGGAGCGAGATTGATAAAGT -B CTGAGCTCTCTCACAGCCATTTAG -M 0.1 -m 0.001 -q 20 -o 20",
+  "read_merging_qc": true,
+  "read_filtering": null,
+  "quantification": "pycroquet",
+  "pycroquet_lib_dep_options": "--chunks 10000"
+}

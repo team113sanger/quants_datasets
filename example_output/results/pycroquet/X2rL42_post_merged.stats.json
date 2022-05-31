@@ -1,0 +1,21 @@
+{
+  "command": "pycroquet long-read --chunks 10000 --cpus 4 -q X2rL42_post.merged.fq.gz -g BRCA1_exon2_pyCROQUET.tsv -s X2rL42_post_merged -o X2rL42_post_merged",
+  "length_excluded_reads": 283137,
+  "low_count_guides_lt_15": 0,
+  "low_count_guides_lt_30": 1,
+  "low_count_guides_user": null,
+  "mapped_to_guide_reads": 302826,
+  "mean_count_per_guide": 1288.62,
+  "merged_from": null,
+  "multimap_reads": 0,
+  "pair_classifications": null,
+  "reversed_reads": false,
+  "sample_name": "X2rL42_post_merged",
+  "total_guides": 235,
+  "total_pairs": 0,
+  "total_reads": 1775204,
+  "unmapped_reads": 1472378,
+  "vendor_failed_reads": 0,
+  "version": "1.5.0",
+  "zero_count_guides": 0
+}

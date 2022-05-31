@@ -1,0 +1,13 @@
+Sample	Unique Reads	Duplicate Reads
+X2_lib_raw_1	7747.0	709417.0
+X2_lib_raw_2	16650.0	700514.0
+X2_neg_raw_1	3223.0	252342.0
+X2_neg_raw_2	6198.0	249367.0
+X2rL41_post_raw_1	20386.0	2731956.0
+X2rL41_post_raw_2	58000.0	2694342.0
+X2rL41_pre_raw_1	21820.0	2493435.0
+X2rL41_pre_raw_2	57023.0	2458232.0
+X2rL42_post_raw_1	19124.0	2214153.0
+X2rL42_post_raw_2	49286.0	2183991.0
+X2rL42_pre_raw_1	22370.0	2612727.0
+X2rL42_pre_raw_2	62278.0	2572819.0

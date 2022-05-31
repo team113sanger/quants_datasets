@@ -1,0 +1,7 @@
+Sample	Unique Reads	Duplicate Reads
+X2_lib_merged	3599.0	652034.0
+X2_neg_merged	1531.0	234352.0
+X2rL41_post_merged	8116.0	2523173.0
+X2rL41_pre_merged	8415.0	2263196.0
+X2rL42_post_merged	7213.0	2051128.0
+X2rL42_pre_merged	8458.0	2380785.0

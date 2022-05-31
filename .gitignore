@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.DS*
+work
+.nextflow*
+*fastq.gz
+*.fq.gz
+*..aln.gz
+logs/*

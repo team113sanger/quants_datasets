@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,replicate,timepoint
+X2_lib,example_input/fastq/SRR7525820_1.fastq.gz,example_input/fastq/SRR7525820_2.fastq.gz,R1,plasmid
+X2_neg,example_input/fastq/SRR7525821_1.fastq.gz,example_input/fastq/SRR7525821_2.fastq.gz,R1,negative_control
+X2rL41_post,example_input/fastq/SRR7525822_1.fastq.gz,example_input/fastq/SRR7525822_2.fastq.gz,R1,D11
+X2rL41_pre,example_input/fastq/SRR7525823_1.fastq.gz,example_input/fastq/SRR7525823_2.fastq.gz,R1,D5 
+X2rL42_post,example_input/fastq/SRR7525825_1.fastq.gz,example_input/fastq/SRR7525825_2.fastq.gz,R2,D11 
+X2rL42_pre,example_input/fastq/SRR7525826_1.fastq.gz,example_input/fastq/SRR7525826_2.fastq.gz,R2,D5
